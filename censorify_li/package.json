@@ -1,0 +1,19 @@
+{
+    "author": "liwenkui",
+    "name": "censorify_li",
+    "version": "0.2.1",
+    "description": "Censors words out of test",
+    "main": "censortest",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/liwenkuiJG/node-study/tree/master/censorify"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    } 
+}

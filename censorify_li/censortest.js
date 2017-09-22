@@ -19,6 +19,6 @@ function getCensoredWords () {
     return censoredWords.concat(customCensoredWords)
 }
 
-export.censor = censor;
-export.addCensoredWords = addCensoredWords;
-export.getCensoredWords = getCensoredWords;
+exports.censor = censor;
+exports.addCensoredWords = addCensoredWords;
+exports.getCensoredWords = getCensoredWords;
